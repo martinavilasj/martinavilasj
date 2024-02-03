@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-🖥️ My favorite command:
+🖥️ **My favorite command:**
 ```sudo rm -rf /``` ⚠️ Don't try this at home
 
+**I'm from** San Juan, Argentina
 <!--
 **martinavilasj/martinavilasj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
