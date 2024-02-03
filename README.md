@@ -19,7 +19,7 @@
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" alt="godot" width="40" height="40"/>
 
-## ![Arrow](img/gif-icons/guidance-4492_128.gif) Some of my projects
+### <img src="https://github.com/martinavilasj/martinavilasj/blob/af0ee877242a030fb24cda71c865c47c4a126fa3/img/gif-icons/guidance-4492_128.gif" width="60" height="60"/> Some of my projects
 <!--
 **martinavilasj/martinavilasj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
