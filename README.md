@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 🖥️ My favorite command:
-```sudo rm -rf /``` ⚠️ D'ont try this at home
+```sudo rm -rf /``` ⚠️ Don't try this at home
 
 <!--
 **martinavilasj/martinavilasj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
