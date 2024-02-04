@@ -1,4 +1,4 @@
-# Hi there 👋
+<img src="img/gif/terminal.gif"/>
 
 ### ![CMD](img/cmd/icons8-cmd-16.png) **My favorite command is** 
 ```sudo rm -rf /```   **<- ⚠️ Don't try this at home** ⚠️
